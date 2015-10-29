@@ -42,4 +42,4 @@ exclude:
   - README.md
   - CONTRIBUTING.md
   - Gemfile*
-baseurl: /website 
+baseurl: /bank 
